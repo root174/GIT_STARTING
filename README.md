@@ -1,4 +1,7 @@
 # ВВЕДЕНИЕ В GIT
 
 ---
-LICENSE: [MIT]
+LICENSE: [MIT](./license.md)
+
+---
+
